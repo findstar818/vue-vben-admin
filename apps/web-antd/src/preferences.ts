@@ -9,5 +9,7 @@ export const overridesPreferences = defineOverridesPreferences({
   // overrides
   app: {
     name: import.meta.env.VITE_APP_TITLE,
+    // 设置程序启动后默认进入的页面
+    defaultHomePath: '/analytics', // 可以改为 '/workspace'、'/gantt' 等其他路由
   },
 });

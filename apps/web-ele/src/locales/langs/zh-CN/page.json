@@ -10,5 +10,25 @@
     "title": "概览",
     "analytics": "分析页",
     "workspace": "工作台"
+  },
+  "management":{
+    "title": "管理",
+    "project":"项目管理",
+    "task":"任务管理"
+  },
+  "calendar":{
+    "title": "资源日历",
+    "calendar": "资源日历"
+  },
+  "gantt":{
+    "title": "甘特图",
+    "resourceGantt": "资源甘特图",
+    "projectGantt": "项目甘特图"
+  },
+  "analysis":{
+    "title": "分析",
+    "projectPlanAnalysis": "项目计划分析",
+    "historicalPlanAnalysis": "历史计划分析"
+
   }
 }

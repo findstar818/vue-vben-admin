@@ -41,11 +41,14 @@
     "@vben/types": "workspace:*",
     "@vben/utils": "workspace:*",
     "@vueuse/core": "catalog:",
+    "axios": "catalog:",
     "dayjs": "catalog:",
+    "dhtmlx-gantt": "^9.1.0",
     "element-plus": "catalog:",
     "pinia": "catalog:",
     "vue": "catalog:",
-    "vue-router": "catalog:"
+    "vue-router": "catalog:",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "unplugin-element-plus": "catalog:"

@@ -10,5 +10,25 @@
     "title": "Dashboard",
     "analytics": "Analytics",
     "workspace": "Workspace"
+  },
+  "management":{
+    "title": "Management",
+    "project":"Project",
+    "task":"Task"
+  },
+  "calendar":{
+    "title": "Calendar",
+    "calendar": "Calendar"
+  },
+  "gantt":{
+    "title": "Gantt",
+    "resourceGantt": "Resource Gantt",
+    "projectGantt": "Project Gantt"
+  },
+  "analysis":{
+    "title": "Analysis",
+    "projectPlanAnalysis": "Project Plan Analysis",
+    "historicalPlanAnalysis": "Historical Plan Analysis"
   }
+  
 }
