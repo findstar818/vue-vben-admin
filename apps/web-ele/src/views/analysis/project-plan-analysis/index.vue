@@ -628,9 +628,9 @@ onMounted(() => {
 
 /* 甘特图左侧列宽度控制 */
 .gantt-col-project {
-  width: 80px;
-  min-width: 80px;
-  max-width: 80px;
+  width: 100px;
+  min-width: 100px;
+  max-width: 100px;
 }
 
 .gantt-col-task {

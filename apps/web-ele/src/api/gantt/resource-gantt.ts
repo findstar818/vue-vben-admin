@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const SPRING_BOOT_BASE_URL = 'http://localhost:9999/shengu';
+const SPRING_BOOT_BASE_URL = 'http://localhost:9999/liming';
 
 export interface ResourceGanttItem {
   planId: string;

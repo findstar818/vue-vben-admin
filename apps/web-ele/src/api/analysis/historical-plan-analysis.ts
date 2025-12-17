@@ -3,7 +3,7 @@ import type { PlanTableItem } from './project-plan-analysis';
 import axios from 'axios';
 
 // Spring Boot 后端地址
-const SPRING_BOOT_BASE_URL = 'http://localhost:9999/shengu';
+const SPRING_BOOT_BASE_URL = 'http://localhost:9999/liming';
 
 export interface HistoryPlanTableItem {
   planId: string;
