@@ -11,24 +11,26 @@
     "analytics": "Analytics",
     "workspace": "Workspace"
   },
-  "management":{
+  "management": {
     "title": "Management",
-    "project":"Project",
-    "task":"Task"
+    "project": "Project",
+    "task": "Task"
   },
-  "calendar":{
+  "calendar": {
     "title": "Calendar",
     "calendar": "Calendar"
   },
-  "gantt":{
+  "process": {
+    "title": "Process Management"
+  },
+  "gantt": {
     "title": "Gantt",
     "resourceGantt": "Resource Gantt",
     "projectGantt": "Project Gantt"
   },
-  "analysis":{
+  "analysis": {
     "title": "Analysis",
     "projectPlanAnalysis": "Project Plan Analysis",
     "historicalPlanAnalysis": "Historical Plan Analysis"
   }
-  
 }

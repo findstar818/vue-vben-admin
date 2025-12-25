@@ -476,7 +476,7 @@ onMounted(() => {
                   <td
                     class="gantt-col-hours border border-gray-200 p-1 text-center text-gray-900 dark:border-gray-700 dark:text-gray-100"
                   >
-                    {{ item.planWorkHours }} 小时
+                    {{ item.planWorkHours }} 天
                   </td>
                   <td
                     class="gantt-col-date border border-gray-200 p-1 text-center text-gray-900 dark:border-gray-700 dark:text-gray-100"
